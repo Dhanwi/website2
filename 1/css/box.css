@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    background-color: aqua;
+}
+h1{
+    margin-top: 0;
+}
+.a{
+    
+    height: 200px;
+    width: 200px;
+    border: solid 10px;
+    padding: 20px;
+    background-color: aquamarine;
+}
+.b{
+   margin-left: 260px;
+    height: 200px;
+    width: 200px;
+    border: solid 20px;
+    background-color: blueviolet;
+}
+.c{
+margin-left: 460px;
+    height: 200px;
+    width: 200px;
+    border: solid 10px;
+    background-color: brown;
+}
